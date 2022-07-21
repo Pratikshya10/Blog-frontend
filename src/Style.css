@@ -143,16 +143,16 @@ a:hover{
     text-align: center;
     box-sizing: border-box;
     display: inline-block;
-    color: white;
+    color: whitesmoke;
     width: 75% ;
     height: 400px;
-    background: url("https://miro.medium.com/max/920/1*R9K4HFA1aG6Skyfs3Ox7bw.jpeg");
+    background: url("https://img.onmanorama.com/content/dam/mm/en/news/kerala/images/2020/10/31/kanyakumari-1.jpg.transform/schema-4x3/image.jpg");
     background-size: contain;
     border-radius: 15px;
     cursor: pointer;
 }
 .home__first h1{
-    padding-top: 300px;
+    padding-top: 350px;
 }
 .home__sec{
     display: inline-block;

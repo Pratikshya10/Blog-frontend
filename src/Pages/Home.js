@@ -16,7 +16,7 @@ const Home = () => {
             <div className="Home">
                 <div className="home__container">
                     <div className="home__first">
-                        <h1>The Taj: The Wonder</h1>
+                        <h1>KANYAKUMARI</h1>
                     </div>
                     <div className="home__sec">
                         <Link to="/fitness">
